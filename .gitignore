@@ -1,0 +1,17 @@
+key/
+*.key
+*.pem
+*.p12
+*.pfx
+*.pub
+id_rsa
+id_ed25519
+.env
+.env.*
+*.tar.gz
+*.tgz
+*.zip
+*.log
+.ossutilconfig
+.dingtalk-token
+backup/
